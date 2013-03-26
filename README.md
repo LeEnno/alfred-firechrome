@@ -1,9 +1,9 @@
 alfred-firechrome
 =================
 
-Alfred Workflow to open Chrome's current tab in Firefox by using 'ff' keyword.
+Alfred Workflow to open Chrome's current tab in Firefox by using `ff` keyword.
 
-I use it in webdevelopment to check if a website is looking goof in Firefox.
+I use it in webdevelopment to check if a website is looking good in Firefox.
 
 Usage
 -----
