@@ -5,6 +5,8 @@ Alfred Workflow to open Chrome's current tab in Firefox by using `ff` keyword.
 
 I use it in webdevelopment to check if a website is looking good in Firefox.
 
+![Firechrome in Action](https://raw.github.com/LeEnno/alfred-firechrome/master/screenshot_ff.png)
+
 Usage
 -----
 
