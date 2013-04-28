@@ -1,5 +1,5 @@
 {
     "version": 1.2,
-    "download_uri": "https://github.com/LeEnno/alfred-firechrome/blob/master/Firechrome.alfredworkflow?raw=true",
+    "download_url": "https://github.com/LeEnno/alfred-firechrome/blob/master/Firechrome.alfredworkflow?raw=true",
     "description": "Fixed support for alleyoop"
 }
