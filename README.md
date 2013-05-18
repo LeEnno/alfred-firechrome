@@ -7,7 +7,7 @@ I use it in webdevelopment to check if a website is looking good in Firefox.
 
 ![Firechrome in Action](https://raw.github.com/LeEnno/alfred-firechrome/master/screenshot_ff.png)
 
-If you use Firefox as your primary browser, you can use the 'krome' keyword to opne it in Chrome.
+If you use Firefox as your primary browser, you can use the 'krome' keyword to open it in Chrome.
 
 You can also use the keyword 'incognito' to open the currently open Chrome tab in Incognito mode. The same action is also bound to the keyboard shortcut Shift+Comannd+M.
 
