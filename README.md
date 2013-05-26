@@ -1,20 +1,18 @@
 alfred-firechrome
 =================
 
-Alfred Workflow to open Chrome's current tab in Firefox by using `ff` keyword.
+Alfred Workflow to open Chrome's current tab in Firefox by using `ff` keyword. If Firefox is currently active then it works in reverse, i.e. it'll open Firefox's current tab in Chrome.
 
 I use it in webdevelopment to check if a website is looking good in Firefox.
 
 ![Firechrome in Action](https://raw.github.com/LeEnno/alfred-firechrome/master/screenshot_ff.png)
 
-If you use Firefox as your primary browser, you can use the 'krome' keyword to open it in Chrome.
-
-You can also use the keyword 'incognito' to open the currently open Chrome tab in Incognito mode. The same action is also bound to the keyboard shortcut Shift+Comannd+M.
+You can also use the keyword 'iff' to open the currently open Chrome tab in Firefox's Private Browsing mode. If Firefox is your currently active window, it'll open a new Chrome window in Incognito mode.
 
 Usage
 -----
 
-1. Open a URL in Chrome
+1. Open a URL in Chrome or Firefox
 2. Trigger Alfred (normally ⌥Space)
 3. Type `ff` and Enter.
 
