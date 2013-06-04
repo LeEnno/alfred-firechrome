@@ -1,5 +1,5 @@
 {
-    "version": 1.3,
+    "version": 1.4,
     "download_url": "https://github.com/LeEnno/alfred-firechrome/blob/master/Firechrome.alfredworkflow?raw=true",
-    "description": "Added Bundle-ID"
+    "description": "Added bidirectional keyword and optional incognito mode"
 }
